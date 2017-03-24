@@ -17,7 +17,6 @@ class DB1_AnyMarket_Helper_ProductGenerator extends DB1_AnyMarket_Helper_Data
             'volume_altura' => null,
             'volume_largura' => null,
             'warranty_time' => null,
-            'id_anymarket' => null,
             'tax_class_id' =>  '0',
             'is_recurring' =>  '0',
             'weight' =>  '1.0000',
